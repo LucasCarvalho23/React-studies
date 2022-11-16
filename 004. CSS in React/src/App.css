@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.container-class {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.textDefault-class {
+  color: green;
+  font-size: 1em;
+}
+
